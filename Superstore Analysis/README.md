@@ -12,21 +12,21 @@ This repository contains a Jupyter Notebook that analyzes a retail dataset (`Sup
 <h2>KPI's Addresssed</h2>
 <a href="https://github.com/Zero4247/EDA-PYTHON/tree/main/Superstore%20Analysis/Superstore%20images">SUPERSTORE IMAGES</a>
 
-*Sales by Month**
-<img src ="Superstore images/Sales by Month(superstore).png">
-<img src ="Superstore images/Sales by Month2(superstore).png">
+<h3>Sales by Month</h3><br>
+<img src ="Superstore images/Sales by Month(superstore).png"><br>
+<img src ="Superstore images/Sales by Month2(superstore).png"><br>
 
-*Sales by Category**
-<img src ="Superstore images/Sales by Category(superstore).png">
+<h3>Sales by Category</h3><br>
+<img src ="Superstore images/Sales by Category(superstore).png"><br>
 
-*Sales by Sub-Category**
-<img src ="Superstore images/Sales by Sub-category(superstore).png">
+<h3>Sales by Sub-Category</h3><br>
+<img src ="Superstore images/Sales by Sub-category(superstore).png"><br>
 
-*Sales vs Profit**
-<img src ="Superstore images/Sales vs Profit(superstore).png">
+<h3>Sales vs Profit</h3><br>
+<img src ="Superstore images/Sales vs Profit(superstore).png"><br>
 
-*Sales vs Profit Ratio**
-<img src ="Superstore images/Sales vs Profit ratio(superstore).png">
+<h3>Sales vs Profit Ratio</h3><br>
+<img src ="Superstore images/Sales vs Profit ratio(superstore).png"><br>
 
 
 **Tech Stack**
