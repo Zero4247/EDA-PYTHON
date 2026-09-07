@@ -10,7 +10,8 @@ This repository contains a Jupyter Notebook that analyzes a retail dataset (`Sup
 * **Monthly Revenue Tracking:** Developed interactive Plotly line charts with customized currency labels to track month-over-month sales performance.
 * **Categorical Breakdown:** Visualized the revenue distribution across major product groups (Furniture, Office Supplies, Technology) using formatted Plotly pie charts.
 <h2>KPI's Addresssed</h2>
-<a href="">SUPERSTORE IMAGES</a>
+<a href="https://github.com/Zero4247/EDA-PYTHON/tree/main/Superstore%20Analysis/Superstore%20images">SUPERSTORE IMAGES</a>
+
 *Sales by Month**
 <img src ="Sales by Month(superstore).png">
 <img src ="Sales by Month2(superstore).png">
