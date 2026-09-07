@@ -13,7 +13,7 @@ This repository contains a Jupyter Notebook that analyzes a retail dataset (`Sup
 <a href="https://github.com/Zero4247/EDA-PYTHON/tree/main/Superstore%20Analysis/Superstore%20images">SUPERSTORE IMAGES</a>
 
 *Sales by Month**
-<img src ="Superstore Analysis/Superstore images/Sales by Month(superstore).png">
+<img src ="Superstore images/Sales by Month(superstore).png">
 <img src ="Sales by Month2(superstore).png">
 *Sales by Category**
 <img src ="Sales by Category(superstore).png">
