@@ -9,6 +9,19 @@ This repository contains a Jupyter Notebook that analyzes a retail dataset (`Sup
 * **Time-Series Extraction:** Cleaned and engineered date columns into distinct Order Month, Year, and Day of Week features for deeper temporal analysis.
 * **Monthly Revenue Tracking:** Developed interactive Plotly line charts with customized currency labels to track month-over-month sales performance.
 * **Categorical Breakdown:** Visualized the revenue distribution across major product groups (Furniture, Office Supplies, Technology) using formatted Plotly pie charts.
+<h2>KPI's Addresssed</h2>
+<a href="">SUPERSTORE IMAGES</a>
+*Sales by Month**
+<img src ="Sales by Month(superstore).png">
+<img src ="Sales by Month2(superstore).png">
+*Sales by Category**
+<img src ="Sales by Category(superstore).png">
+*Sales by Sub-Category**
+<img src ="Sales by Sub-category(superstore).png">
+*Sales vs Profit**
+<img src ="Sales vs Profit(superstore).png">
+*Sales vs Profit Ratio**
+<img src ="Sales vs Profit ratio(superstore).png">
 
 **Tech Stack**
 * **Data Manipulation:** `pandas`, `numpy`
