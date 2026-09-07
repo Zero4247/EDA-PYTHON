@@ -14,15 +14,15 @@ This repository contains a Jupyter Notebook that analyzes a retail dataset (`Sup
 
 *Sales by Month**
 <img src ="Superstore images/Sales by Month(superstore).png">
-<img src ="Sales by Month2(superstore).png">
+<img src ="Superstore images/Sales by Month2(superstore).png">
 *Sales by Category**
-<img src ="Sales by Category(superstore).png">
+<img src ="Superstore images/Sales by Category(superstore).png">
 *Sales by Sub-Category**
-<img src ="Sales by Sub-category(superstore).png">
+<img src ="Superstore images/Sales by Sub-category(superstore).png">
 *Sales vs Profit**
-<img src ="Sales vs Profit(superstore).png">
+<img src ="Superstore images/Sales vs Profit(superstore).png">
 *Sales vs Profit Ratio**
-<img src ="Sales vs Profit ratio(superstore).png">
+<img src ="Superstore images/Sales vs Profit ratio(superstore).png">
 
 **Tech Stack**
 * **Data Manipulation:** `pandas`, `numpy`
